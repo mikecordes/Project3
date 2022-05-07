@@ -2,6 +2,14 @@
 
 **Team**: Griselda Ramos, Bobby DiFazio, Chris Diaz, Troy Prata, John Likelee, and Michael Cordes  
 
+**Technologies Used:**
+ - Jupyter Lab / Colab
+ - Python
+ - Streamlit
+ - Solidity 
+ - Remix IDE 
+ - Pinata 
+ - IPFS
 
 ## Background
 
@@ -88,5 +96,28 @@ First, they serve as energy sources. In numerous cases, national parks protect n
 Second, they preserve natural resources and prevent depletion. Protected regions can help alleviate the effects of cataclysmic events with soil adjustment (for instance, maintaining a strategic distance from torrential slides, avalanches, and disintegration) and diminishing floods (for instance, moderation in little bowls, insurance of alluvial fields and wetlands). They can likewise help in ensuring coasts by utilizing mangroves, sand ridges or coral reefs as tempest hindrances.
 
 *source: https://gotonationalparks.com/importance-national-parks/*
-  
+ 
+ ## Reasons the Parks Need Help
+-   Wildfire damage restoration
+    
+-   Ecological conservation
+    
+-   Animal Rehabilitation
+    
+-   Park Maintenance 
+    
+-   Public Educational Programs
+     
+-   Historic Restoration and Preservation
+    
+-   Critical Ecosystem Research
+    
+-   Habitat Restoration and Protection
+    
+-   Water Conservation in Parks
+    
+-   Creating Energy Smart Parks
+ 
 ## Submission
+
+Files: 
