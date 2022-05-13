@@ -8,7 +8,7 @@
  - Streamlit
  - Solidity 
  - Remix IDE 
- - Pinata 
+ - Ganache 
  - IPFS
 
 ## Background
