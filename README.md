@@ -10,6 +10,7 @@
  - Remix IDE 
  - Ganache 
  - IPFS
+ - APIs
 
 ## Background
 
