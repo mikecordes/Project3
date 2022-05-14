@@ -123,7 +123,14 @@ Second, they preserve natural resources and prevent depletion. Protected regions
 
 Files: 
 
+Files: 
+
  - [Fire Data](https://github.com/mikecordes/Project3/blob/main/Data/Monitoring_Trends_in_Burn_Severity_Burned_Area_Boundaries_%28Feature_Layer%29%20%281%29.csv)
  - [Parks](https://github.com/mikecordes/Project3/blob/main/Data/parks.csv)
  - [Park Visits](https://github.com/mikecordes/Project3/blob/main/Data/visits%20%281%29.csv)
  - [Park Video URLs](https://github.com/mikecordes/Project3/blob/main/Data/urls2.csv)
+ - [Draft .PY file (no art registry)](https://github.com/mikecordes/Project3/blob/main/nps_nft_finder.py)
+ - [Final .PY (working art registry)](https://github.com/mikecordes/Project3/blob/main/gallery.py)
+ - [Wallet ](https://github.com/mikecordes/Project3/blob/main/crypto_wallet.py)
+ - [Pinata](https://github.com/mikecordes/Project3/blob/main/pinata.py)
+ - [ABI JSON](https://github.com/mikecordes/Project3/blob/main/artregistry_abi.json)
